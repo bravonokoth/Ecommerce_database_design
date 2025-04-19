@@ -13,6 +13,7 @@ This repository contains the design and implementation of an e-commerce database
 3. View the ERD in `docs/erd.png`.
 
 ## Team
+- [Connie Njuguna]: Documentation
 - [Charmain Ramaphala]: ERD Design
 - [Bravon Orwa]: SQL Implementation
-- [Connie Njuguna]: Documentation
+
